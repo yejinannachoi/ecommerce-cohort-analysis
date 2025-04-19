@@ -3,7 +3,7 @@
 
 ## Objective
 
-This project explores customer behavior by grouping ecommerce users into cohorts based on the month of their first purchase. The goal is to understand how long customers remain active after their first purchase, generate value over time, and how different factors (like coupons or marketing campaigns) may influence their behavior. The results of this analysis can help guide marketing investments and strategic decisions, particularly around customer retention.
+This project explores customer behavior by grouping ecommerce users into cohorts based on the month of their first purchase. The goal is to understand how long customers remain active after their first purchase, generate value over time, and how different factors (like coupons or marketing campaigns) may influence their behavior. The results can help guide marketing investments and strategic decisions, particularly around customer retention.
 ## Dataset
 
 The dataset `Onlinesales_info.csv` is from [Dacon's Ecommerce Customer Segmentation Analysis Competition](https://dacon.io/competitions/official/236222/data) and contains transaction records from an ecommerce platform.
